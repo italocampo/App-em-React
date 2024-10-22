@@ -1,0 +1,9 @@
+
+article {
+    background-color: #74a3a4;
+    height: 20rem;
+
+    /* Teste (width) */
+    width: 30%;
+    border: solid 1px #733e0a; /* TESTE */
+}
